@@ -23,13 +23,13 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/java.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/java.svg" height="40" alt="java"  />
   <img width="12" />
-  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/html.svg" height="40" alt="html5 logo"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/html.svg" height="40" alt="html"  />
   <img width="12" />
-  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/css.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/css.svg" height="40" alt="css"  />
   <img width="12" />
-  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/vbs.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/vbs.svg" height="40" alt="vbs"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
