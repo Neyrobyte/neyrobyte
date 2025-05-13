@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/vbs.png" height="40" alt="vbs"  />
   <img width="12" />
-  <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/maven.png" height="40" alt="maven"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/maven.svg" height="40" alt="maven"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
