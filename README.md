@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="100" width="600" src="https://github.com/Neyrobyte/neyrobyte/blob/68d7c2e8b8274413c38a322b0eed3bf3d04b824e/neyrobyte.svg"  />
 </div>
 
 ###
