@@ -36,13 +36,13 @@
   <br>
   <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/gradle.svg" height="40" alt="gradle"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/git.svg" height="40" alt="git"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/linux.svg" height="40" alt="linux"  />
 </div>
 
 ###
