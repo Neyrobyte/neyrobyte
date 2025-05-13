@@ -33,6 +33,7 @@
   <img width="12" />
   <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/maven.svg" height="40" alt="maven"  />
   <img width="12" />
+  <br>
   <img src="https://github.com/Neyrobyte/neyrobyte/blob/main/gradle.svg" height="40" alt="gradle"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress"  />
